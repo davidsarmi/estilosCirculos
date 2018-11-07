@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.pagina1{
+  background-color: aqua;
+  width: 1200px;
+  height: 1700px;
+  margin: 40px 20px;
+  padding: 30px 0 0 0;
+}
+.pagina1 article {
+  width: 355px;
+  height: 355px;
+  background-color: bisque;
+  display: inline-block;
+  margin: 0 17px 35px 17px;
+}
+.pagina1 ol{
+  background-color: blue;
+  width: 355px;
+  height: 355px;
+  border-radius: 50%;
+}
+.pagina1 nav{
+  background-color: dimgrey;
+  width: 470px;
+  height: 470px;
+  margin: 0 45px 35px 70px;
+  display: inline-block;
+  padding: 0 0 30px 0;
+}
+.pagina1 div{
+  background-color:yellow;
+  width: 470px;
+  height: 470px;
+  border-radius: 50%
+}
+.pagina1 footer{
+  background-color: blueviolet;
+  height: 700px;
+  width: 1100px;
+  margin: 0 60px 40px 50px;
+  padding: 25px 0 0 0;
+}
+.pagina1 footer nav{
+  background-color: yellowgreen;
+  height: 650px;
+  width: 320px;
+  margin: 0 20px 25px 20px;
+  display: inline-block; 
+  padding: 15px 0 0 0;
+}
+.pagina1 footer nav aside{
+  background-color: red;
+  height: 200px;
+  width: 280px;
+  margin: 0 20px 15px 20px;
+}
+.pagina1 footer nav h1{
+  background-color: #FF1744;
+  height: 600px;
+  width: 290px;
+  margin: 0 20px 15px 20px;
+  border-radius: 45% 45% 45% 45%;
+}
+.pagina1 footer nav li{
+  background-color: red;
+  height: 200px;
+  width: 280px;
+  margin: 0 20px 15px 20px;
+  border-radius: 50%;  
+}
+nav{
+  background-color: #FF1744;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  list-style: none;
+}
+nav ul li a{
+  display: inline-block;
+  padding: 15px 20px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+}
+
+.active{
+  background-color: blueviolet;
+}
+/*Pagina 2*/
+.pagina2{
+  background-color: blueviolet;
+  height: 1500px;
+  width: 1200px;
+  margin: 40px;
+  padding: 20px 0 0 0;
+
+}
+.pagina2 article{
+  background-color: #FF1744;
+  height: 530px;
+  width: 530px;
+  margin: 0 30px 25px 30px;
+  display: inline-block;
+}
+.pagina2 main{
+  background-color: yellowgreen;
+  height: 263px;
+  width: 263px;
+  display: inline-block;
+  border-radius: 50%;
+}
+.pagina2 section{
+  background-color: yellow;
+  height: 400px;
+  width: 590px;
+  margin: 0 282px 25px 282px;
+  padding: 40px 0 0 0;
+
+}
+.pagina2 footer{
+  background-color: green;
+  height: 330px;
+  width: 270px;
+  display: inline-block;
+  border-radius: 50%
+}
+.pagina2 div{
+  background-color: rgb(99, 219, 95);
+  height: 400px;
+  width: 230px;
+  margin: 0 15px 20px 20px;
+  display: inline-block;
+
+}
+.pagina2 li{
+  background-color: rgb(99, 219, 95);
+  height: 400px;
+  width: 330px;
+  margin: 0 15px 20px 20px;
+  display: inline-block;
+
+}
+
+
